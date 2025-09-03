@@ -11,3 +11,16 @@
         color: var(--branco);
         font-family: 'Chakra Petch' , sanserif;    )
  )
+ .conteudo-principal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-widht: 100%;
+    margin: 0 auto;
+}
+.titulo-principal{
+    text-align: left;
+    widht: 100%
+    font-size: 32px
+}
